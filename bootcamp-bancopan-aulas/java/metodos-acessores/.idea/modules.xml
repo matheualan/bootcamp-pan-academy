@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AcessoPublic/AcessoPublic.iml" filepath="$PROJECT_DIR$/AcessoPublic/AcessoPublic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ModificadoAcessoPrivate/ModificadoAcessoPrivate.iml" filepath="$PROJECT_DIR$/ModificadoAcessoPrivate/ModificadoAcessoPrivate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AcessoPublic/ModificadorAcessoPrivate.iml" filepath="$PROJECT_DIR$/AcessoPublic/ModificadorAcessoPrivate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestandoNaMesmaClasse/TestandoNaMesmaClasse.iml" filepath="$PROJECT_DIR$/TestandoNaMesmaClasse/TestandoNaMesmaClasse.iml" />
+      <module fileurl="file://$PROJECT_DIR$/VendoClassePrivateDeFora/VendoClassePrivateDeFora.iml" filepath="$PROJECT_DIR$/VendoClassePrivateDeFora/VendoClassePrivateDeFora.iml" />
+      <module fileurl="file://$PROJECT_DIR$/VendoMetodoExterno/VendoMetodoExterno.iml" filepath="$PROJECT_DIR$/VendoMetodoExterno/VendoMetodoExterno.iml" />
+      <module fileurl="file://$PROJECT_DIR$/VendoPacoteExterno/VendoPacoteExterno.iml" filepath="$PROJECT_DIR$/VendoPacoteExterno/VendoPacoteExterno.iml" />
+      <module fileurl="file://$PROJECT_DIR$/metodos-acessores.iml" filepath="$PROJECT_DIR$/metodos-acessores.iml" />
+    </modules>
+  </component>
+</project>
